@@ -19,8 +19,8 @@ brew install curl
 brew install ffmpeg
 
 # Rust
-pip install setuptools-rust
+pip3 install setuptools-rust
 
 
 # Whisper
-pip install --upgrade --no-deps --force-reinstall git+https://github.com/openai/whisper.git
+pip3 install --upgrade --no-deps --force-reinstall git+https://github.com/openai/whisper.git
