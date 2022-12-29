@@ -12,6 +12,9 @@ brew install python
 # PyTorch
 pip3 install torch torchvision torchaudio
 
+# Homebrew Curl
+brew install curl
+
 # FFmpeg
 brew install ffmpeg
 
