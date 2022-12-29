@@ -1,3 +1,6 @@
+#!/usr/bin/env bash
+
+
 # Installs Homebrew, Python, PyTorch, FFmpeg, Rust and Whisper
 
 # Homebrew
