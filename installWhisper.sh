@@ -16,11 +16,19 @@ pip3 install torch torchvision torchaudio
 brew install curl
 
 # FFmpeg
-brew install ffmpeg
+pip3 install ffmpeg ffmpeg-python
 
 # Rust
 pip3 install setuptools-rust
 
+# tqdm
+pip3 install tqdm
+
+# transformers
+pip3 install transformers
+
+# more_itertools
+pip3 install more-itertools
 
 # Whisper
 pip3 install --upgrade --no-deps --force-reinstall git+https://github.com/openai/whisper.git
