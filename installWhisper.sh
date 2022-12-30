@@ -16,6 +16,10 @@ pip3 install torch torchvision torchaudio
 brew install curl
 
 # FFmpeg
+# Install Application
+brew install ffmpeg
+
+# Install Python APIs
 pip3 install ffmpeg ffmpeg-python
 
 # Rust
