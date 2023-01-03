@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 
-# Installs Homebrew, Python, PyTorch, FFmpeg, Rust and Whisper
+# Installs Homebrew, Python, PyTorch, FFmpeg, Rust and Whisper executable fro command line
 
 # Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
